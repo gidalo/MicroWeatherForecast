@@ -1,11 +1,12 @@
 # Micro Weather Forecast V.1.3 By MatixVision (f) 2025
-
  *  start release 1.0 - 1.2 working 1.3
  *  Code by MatixVision
  *  For Italy Country  
  *  License: GNU GENERAL PUBLIC LICENSE Version 3, 29 June 2007
  * Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
-
-   <center><img src="MicroWeatherForecast V.1.3.png"></center>
-   <br>
-   <center><img src="Screenshot_web.png"></center>
+<p align="center" width="100%">
+    <img width="33%" src="MicroWeatherForecast V.1.3.png"> 
+</p>
+<p align="center" width="100%">
+   <img width="33%" src="Screenshot_web.png">
+</p>
