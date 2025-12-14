@@ -10,3 +10,6 @@
 <p align="center" width="100%">
    <img width="33%" src="Screenshot_web.png">
 </p>
+<p align="center" width="100%">
+   <img width="33%" src="Screenshot_web_1.png">
+</p>
