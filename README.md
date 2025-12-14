@@ -7,5 +7,5 @@
  * Copyright (C) 2007 Free Software Foundation, Inc. <https://fsf.org/>
 
    <center><img src="MicroWeatherForecast V.1.3.png"></center>
-
+   <br>
    <center><img src="Screenshot_web.png"></center>
